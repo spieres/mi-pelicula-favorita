@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: intensamente2.infinityfreeapp.com
